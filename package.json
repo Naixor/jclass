@@ -1,0 +1,32 @@
+{
+  "name": "jclass",
+  "version": "1.0.0",
+  "description": "A js oop lib like Java's oop.",
+  "main": "src/jclass.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/jclass.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Naixor/jclass.git"
+  },
+  "keywords": [
+    "js",
+    "class",
+    "java",
+    "oop"
+  ],
+  "author": "Naixor <hongyesoftware@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Naixor/jclass/issues"
+  },
+  "homepage": "https://github.com/Naixor/jclass",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.3"
+  }
+}
